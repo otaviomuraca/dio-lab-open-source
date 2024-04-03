@@ -5,7 +5,7 @@ Just a 37 year old guy who fell in love with the Python language and is trying t
 
 ### Follow Me
 
-[![E-mail : otaviomuraca@gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](daniel07dev@gmail.com)
+[![E-mail : otaviomuraca@gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:otaviomuraca@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/otaviomuraca/)
 
 ### Skills and Proficiencies
